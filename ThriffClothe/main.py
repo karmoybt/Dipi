@@ -5,18 +5,14 @@ from visual import Visual
 
 root = tk.Tk()
 
-# Crear instancia de Visual
 ventana = Visual(root)
 ventana.configurar_ventana(400, 200)
 
-# Crear Entry
 ruta = ventana.crear_entrada(0, 1)
 alto = ventana.crear_entrada(2, 1)
-ancho  = ventana.crear_entrada(2, 2)
+ancho = ventana.crear_entrada(2, 2)
 
-# Crear Botones
 botones = Botones(ruta, borrar_fondo)
-
 
 ventana.crear_boton("Obtener Ruta", botones.obtener_ruta, 0, 0)
 ventana.crear_boton("Borrar Fondo", botones.btn_borrar_fondo, 1, 0)
