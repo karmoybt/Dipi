@@ -3,6 +3,7 @@ from tkinter import ttk
 from tkinter import filedialog
 from Redimensionar import redimensionar_imagen
 
+
 class Botones:
     def __init__(self, entry, borrar_fondo):
         self.entry = entry
@@ -46,13 +47,15 @@ class Botones:
             print(contenido)
 
     def btn_borrar_fondo(self):
+        self.obtener_ruta()  # Llama a obtener_ruta al principio
         ruta = self.entry.get()
         if ruta:
             self.borrar_fondo(ruta)
-        else:
+        else:  
             print("Primero selecciona una ruta")
 
     def redimensionar(self):
+        self.obtener_ruta()  # Llama a obtener_ruta al principio
         ruta = self.entry.get()
         alto = self.alto
         ancho = self.ancho
@@ -61,3 +64,5 @@ class Botones:
             redimensionar_imagen(ruta, alto, ancho)
         else:
             print("Completa todos los campos antes de redimensionar.")
+
+

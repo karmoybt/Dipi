@@ -20,6 +20,7 @@ botones = Botones(ruta, borrar_fondo)
 
 ventana.crear_boton("Obtener Ruta", botones.obtener_ruta, 0, 0)
 ventana.crear_boton("Borrar Fondo", botones.btn_borrar_fondo, 1, 0)
+ventana.crear_boton("Color Fondo", botones.btn_borrar_fondo, 1, 1)
 ventana.crear_boton("Redimensionar", botones.redimensionar, 2, 0)
 
 root.mainloop()
