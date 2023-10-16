@@ -1,9 +1,11 @@
 import tkinter as tk
 from tkinter import filedialog
 from Redimensionar import redimensionar_imagen
+from visual import *
 
 class Botones:
-    def __init__(self, entry, borrar_fondo):
+    def __init__(self, root, entry, borrar_fondo):
+        self.root = root  # Agrega el atributo 'root'
         self.entry = entry
         self.borrar_fondo = borrar_fondo
         self.ancho = 1000
@@ -22,7 +24,9 @@ class Botones:
 
     def btn_borrar_fondo(self):
         ruta = self.obtener_ruta()
+        Visual.ventana_carga(self, 0, 3)         
         self.borrar_fondo(ruta)
+
 
 
     def redimensionar(self):
