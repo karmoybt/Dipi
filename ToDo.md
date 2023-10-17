@@ -16,7 +16,7 @@
     - BackUps
 
 
-Procesos
+- Procesos
     -Proceso de las imagenes
         - Tomar fotos
         - Subir a un FTP
@@ -27,7 +27,7 @@ Procesos
             - Talla
                 -Tallaje + Medidas 
             - Color
-                - * Limitar el numero de colores
+                - Limitar el numero de colores
             - Descripcion
             - Peso
             - Sexo
