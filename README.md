@@ -27,13 +27,18 @@ El emprendedor puede crear por sí mismo su empresa, a través de Internet, con 
 # Enlaces
 
 **Puntos de Atención al Emprendimiento (PAE) Mataró**
-- [Link 1](https://paeelectronico.es/es-es/Servicios/Paginas/BuscadorPAE.aspx?aoSqr79si5E=)
-- [Link 2](https://paeelectronico.es/es-es/Servicios/Paginas/BuscadorPAE.aspx?n8VtgbaIicI=)
+- [CONSELL COMARCAL DEL MARESME](https://paeelectronico.es/es-es/Servicios/Paginas/BuscadorPAE.aspx?aoSqr79si5E=)
+    -[ emprenedoria@ccmaresme.cat](mailto: emprenedoria@ccmaresme.cat)
+- [Tecnocampus](https://paeelectronico.es/es-es/Servicios/Paginas/BuscadorPAE.aspx?n8VtgbaIicI=)
+    -[emprenedors@tecnocampus.cat](mailto:emprenedors@tecnocampus.cat)
 
 # Noticia
 
 **Resumen de la siguiente Noticia**  
 La noticia trata sobre la derogación de la sociedad limitada de formación sucesiva en España. [Leer más](https://cincodias.elpais.com/cincodias/2023/01/31/pyme/1675197883_157497.html)
+
+
+# Proceso de constitución y adopción de personalidad jurídica
 
 **Emprendedor de Responsabilidad Limitada**  
 - [Procesos de constitución](https://plataformapyme.es/es-es/Nacimiento/ProcesoDeConstitucionYAdopcionDePersonalidadJuridica/Paginas/ProcesoConstitucionDetalle.aspx?forma=Emprendedor%20de%20Responsabilidad%20Limitada)
