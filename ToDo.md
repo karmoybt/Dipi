@@ -17,7 +17,7 @@
 
 
 - Procesos
-    -Proceso de las imagenes
+    - Proceso de las imagenes
         - Tomar fotos
         - Subir a un FTP
         - Quitar fondo y redimensionar
