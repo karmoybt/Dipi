@@ -14,7 +14,7 @@
 - Hosting imagenes
     - Disco duro o servidor
     - BackUps
-    
+
 
 Procesos
     -Proceso de las imagenes
@@ -27,7 +27,7 @@ Procesos
             - Talla
                 -Tallaje + Medidas 
             - Color
-                - *Limitar el numero de colores
+                - * Limitar el numero de colores
             - Descripcion
             - Peso
             - Sexo
