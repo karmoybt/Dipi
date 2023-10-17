@@ -39,6 +39,9 @@ El emprendedor puede crear por sí mismo su empresa, a través de Internet, con 
 **Resumen de la siguiente Noticia**  
 La noticia trata sobre la derogación de la sociedad limitada de formación sucesiva en España. [Leer más](https://cincodias.elpais.com/cincodias/2023/01/31/pyme/1675197883_157497.html)
 
+**Video No oficial**
+dice que no hace falta si facturas menos de 950€ brutos mensuales. - No me fio de este no me lo creo
+[Video](https://www.youtube.com/watch?v=vTaPahIQtd4)
 
 # Proceso de constitución y adopción de personalidad jurídica
 
