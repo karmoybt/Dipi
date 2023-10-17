@@ -29,7 +29,7 @@ El emprendedor puede crear por sí mismo su empresa, a través de Internet, con 
 **Puntos de Atención al Emprendimiento (PAE) Mataró**
 
 - [CONSELL COMARCAL DEL MARESME](https://paeelectronico.es/es-es/Servicios/Paginas/BuscadorPAE.aspx?aoSqr79si5E=)
-    -[ emprenedoria@ccmaresme.cat](mailto:emprenedoria@ccmaresme.cat)
+    -[semprenedoria@ccmaresme.cat](mailto:emprenedoria@ccmaresme.cat)
 
 - [Tecnocampus](https://paeelectronico.es/es-es/Servicios/Paginas/BuscadorPAE.aspx?n8VtgbaIicI=)
     -[emprenedors@tecnocampus.cat](mailto:emprenedors@tecnocampus.cat)
@@ -44,7 +44,7 @@ La noticia trata sobre la derogación de la sociedad limitada de formación suce
 
 **Emprendedor de Responsabilidad Limitada**  
 - [Procesos de constitución](https://plataformapyme.es/es-es/Nacimiento/ProcesoDeConstitucionYAdopcionDePersonalidadJuridica/Paginas/ProcesoConstitucionDetalle.aspx?forma=Emprendedor%20de%20Responsabilidad%20Limitada)
-  - [Imagen](https://plataformapyme.es/Style%20Library/img/TCFlujogramas/ERL.png)
+  - ![Imagen](https://plataformapyme.es/Style%20Library/img/TCFlujogramas/ERL.png)
 - Consejerías de Hacienda de las CC.AA.: Impuesto sobre transmisiones patrimoniales y actos jurídicos documentados
 - Registro Mercantil Provincial: Inscripción de la empresa en el Registro
 - La condición de Emprendedor de Responsabilidad Limitada se adquirirá mediante su constancia en el Registro Mercantil correspondiente a su domicilio
@@ -52,7 +52,7 @@ La noticia trata sobre la derogación de la sociedad limitada de formación suce
 
 **SOCIEDAD DE RESPONSABILIDAD LIMITADA**  
 - [Procesos de constitución](https://plataformapyme.es/es-es/Nacimiento/ProcesoDeConstitucionYAdopcionDePersonalidadJuridica/Paginas/ProcesoConstitucionDetalle.aspx?forma=Sociedad%20de%20Responsabilidad%20Limitada)
-  - [Imagen](https://plataformapyme.es/Style%20Library/img/TCFlujogramas/SRL.png)
+  - ![Imagen](https://plataformapyme.es/Style%20Library/img/TCFlujogramas/SRL.png)
 - Registro Mercantil Central: Certificación negativa del nombre de la sociedad
 - Notario: Escritura pública
   - La escritura de constitución de la sociedad deberá ser otorgada por todos los socios fundadores, sean personas físicas o jurídicas, quienes habrán de asumir la totalidad de las participaciones sociales. Deberá contener necesariamente:
