@@ -27,4 +27,4 @@ services:
 
 volumes:
   odoo_data:
-  odoo_db_data:
+  odoo_db_data: 
