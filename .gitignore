@@ -1,7 +1,7 @@
 Docker/Odoo/Data/db/
 Docker/Odoo/Data/filestore/2Life2Good
 Docker/Odoo/Data/sessions
-Docker/Odoo/Data/db/pg_stat_tmp/*
+Docker/Odoo/Data/db/pg_stat_tmp 
 Docker/Odoo/Data/db/pg_stat_tmp/db_0.stat
 Docker/Odoo/Data/db/pg_stat_tmp/db_13481.stat
 Docker/Odoo/Data/db/pg_stat_tmp/db_16384.stat
