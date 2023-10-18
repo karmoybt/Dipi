@@ -1,5 +1,11 @@
+# Ignorar la carpeta db y sus contenidos
 Docker/Odoo/Data/db/
-Docker/Odoo/Data/filestore/2Life2Good/
-Docker/Odoo/Data/sessions/
-Docker/Odoo/Data/db/pg_stat_tmp/
 
+# Ignorar la carpeta filestore específica
+Docker/Odoo/Data/filestore/2Life2Good/
+
+# Ignorar la carpeta de sesiones y todas sus subcarpetas
+Docker/Odoo/Data/sessions/
+
+# Ignorar la carpeta pg_stat_tmp y sus contenidos, incluido global.stat
+Docker/Odoo/Data/db/pg_stat_tmp/
