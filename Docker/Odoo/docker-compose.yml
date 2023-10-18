@@ -12,7 +12,8 @@ services:
     depends_on:
       - db
     volumes:
-      - odoo_data:/var/lib/odoo
+      - ./Data:/var/lib/odoo
+      - ./../Addons:/mnt/extra-addons
 
   db:
     image: postgres:12
@@ -20,8 +21,9 @@ services:
       - POSTGRES_USER=odoo
       - POSTGRES_PASSWORD=odoo
       - POSTGRES_DB=postgres
+      - PGDATA=/var/lib/postgresql/data/pgdata
     volumes:
-      - odoo_db_data:/var/lib/postgresql/data
+      - ./Data/db:/var/lib/postgresql/data/pgdata
 
 volumes:
   odoo_data:
